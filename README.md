@@ -5,7 +5,7 @@ They run in the browser, no installation needed.
 
 | Exercise | Notebook | Launch |
 |---|---|---|
-| 5 – LU decomposition | `notebooks/05_lu_decomposition.ipynb` | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/c-abird/compphys-notebooks/HEAD?labpath=notebooks/05_lu_decomposition.ipynb) |
+| 7 – LU decomposition | `notebooks/07_lu_decomposition.ipynb` | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/c-abird/compphys-notebooks/HEAD?labpath=notebooks/07_lu_decomposition.ipynb) |
 
 ## How to use
 
